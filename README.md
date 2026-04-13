@@ -2,7 +2,7 @@
 
 数据科学家 & AI开发者
 
-🌐 在线访问：[https://Keith-hot.github.io](https://yaeqpcoq2yhwa.ok.kimi.link)
+🌐 在线访问：[https://Keith-hot.github.io]
 
 ## 技能
 - Python, SQL, R, Java
